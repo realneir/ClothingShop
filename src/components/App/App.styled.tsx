@@ -34,7 +34,7 @@ export const LinksWrapper = styled.div`
     color: #bb7250;
 
     :hover {
-      color: #bb7250;
+      color: #7A7A69;
       font-weight: bold;
       text-decoration: underline;
     }
