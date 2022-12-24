@@ -113,6 +113,7 @@ export const App = () => {
           <Link to="/">Home</Link>
           <Link to="/cart">Cart</Link>
           <Link to="/wish">Wishlist</Link>
+          <Link to="/checkout">Checkout</Link>
         </LinksWrapper>
         <Routes>
           <Route path="/" element={<Products />} />
