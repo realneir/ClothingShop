@@ -22,7 +22,7 @@ export const CheckOut = () => {
 
   return (
     <>
-      <Title>Checkout Card</Title>
+      <Title>Items available for checkout</Title>
       <CheckOutTable>
         <thead>
           <tr>
